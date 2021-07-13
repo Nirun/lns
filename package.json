@@ -1,0 +1,15 @@
+{
+  "name": "lns",
+  "version": "1.0.0",
+  "description": "line noti service for order delivery date",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "helloworld"
+  },
+  "author": "Nirun Junvityee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
